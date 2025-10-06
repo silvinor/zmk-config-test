@@ -1,7 +1,7 @@
-if SHIELD_PROMICRO52840
+if SHIELD_BNK16
 
 config ZMK_KEYBOARD_NAME
-	default "promicro52840"
+	default "Binepad BNK-16"
 
 config ZMK_USB
 	default y
