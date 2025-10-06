@@ -1,0 +1,8 @@
+# Ignore these
+__*
+
+# macOS
+*.DS_Store
+
+# clangd
+app/.cache/
